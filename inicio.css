@@ -1,0 +1,180 @@
+.container {
+ position:relative;
+  bottom: 15px;
+  text-align: center;
+  height: 300px;
+  height: 30px;
+}
+
+.barra {
+  width: 999px;
+  height: 60px;
+  font-size: 25px;
+  background-color: rgb(79, 79, 79);
+}
+
+
+i {
+  font-size: 25px;
+  color: rgb(127, 131, 134);
+}
+
+.lista {
+  position: relative;
+  display: grid;
+  justify-content: left;
+  margin-top: -60px;
+  bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  bottom: 150px;
+}
+
+
+h1 {
+  margin-bottom: 50px;
+  transition: 0.5s;
+  color: rgb(255, 255, 255);
+}
+
+H1:hover {
+  background-color: gray;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.navegador {
+  display: flex;
+}
+.navegador-.logo {
+  color: aliceblue;
+}
+.logo {
+  position: relative;
+  bottom: 25px;
+  height: 200px;
+  width: 200px;
+}
+
+.boton {
+  padding: 30px;
+  background: light-gray;
+  color: rgb(59, 52, 52);
+  margin: 20px;
+}
+
+.boton-2 {
+  padding: 30px;
+  background: light-gray;
+  color: rgb(59, 52, 52);
+  margin: 20px;
+}
+
+.parrafo-2 {
+  display: flex;
+
+}
+
+.parrafo {
+  position: relative;
+  bottom: 50px;
+  font-size: 50px;
+  text-align: center;
+  color: aliceblue;
+  margin-top: -100px;
+  font-weight: bold;
+  line-height: 4px;
+}
+.parrafo .p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.icono img {
+  position: relative;
+  bottom: 85px;
+  margin-top: -150px;
+  height: 80px;
+}
+
+.p-3 {
+  display: flex;
+  justify-content: center;
+}
+.p-3 .parrafo-3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.parrafo-3 {
+  position: relative;
+  right: 165px;
+  bottom: 350px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 30px;
+  text-align: left;
+}
+
+.parrafo-4 {
+  text-align: left;
+}
+
+.parrafo-5 {
+  position: relative;
+  bottom: 325px;
+  text-align: left;
+  background-color: rgb(26, 131, 26);
+  height: 50px;
+  width: 160px;
+  border-radius: 5px;
+}
+
+.boton-1 {
+  position: relative;
+  bottom: 230px;
+  text-align: right;
+}
+
+.btn-green {
+  position: relative;
+  left: 165px;
+  bottom: 30px;
+}
+.caja-1 {
+  position: relative;
+  left: 1150px;
+  bottom: 790px;
+  border-radius: 5px;
+ background-color: rgb(102, 94, 94);
+ width: 300px;
+ height: 200px;
+}
+.c-1 {
+  text-align: center;
+}
+.caja-2 {
+  position: relative;
+  left: 1184px;
+  bottom: 791px;
+  border-radius: 5px;
+ background-color: rgb(102, 94, 94);
+ width: 300px;
+ height: 200px;
+}
+.c-2 {
+  text-align: center;
+}
+.caja-3 {
+  position: relative;
+  left: 1150px;
+  bottom: 791px;
+  border-radius: 5px;
+ background-color: rgb(102, 94, 94);
+ width: 300px;
+ height: 200px;
+ box-sizing: 30px;
+}
+.c-3 {
+  text-align: center;
+}
